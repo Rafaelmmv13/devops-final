@@ -1,0 +1,19 @@
+{
+  "name": "devops-final",
+  "version": "1.0.0",
+  "description": "DevOps CI/CD Practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "jest": "^30.3.0",
+    "supertest": "^7.2.2"
+  }
+}
